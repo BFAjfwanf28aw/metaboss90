@@ -1,0 +1,58 @@
+{
+  "name": "Meka Bears2376",
+  "symbol": "MKB",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeia7a7ko64lgpvy6nsx4mysuxmdqpazobrjbt5zi6fk72qschga3ki/1531.png",
+  "attributes": [
+   {
+      "trait_type": "BG",
+      "value": "Orange High"
+    },
+    {
+      "trait_type": "Stamp",
+      "value": "Brand Meta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue Print"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Thug"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whattey"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 2976,
+      "display_type": "number",
+      "max_value": 5555
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
